@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='funniest',
+    name='awesome_package',
     version='0.1',
-    description='The funniest joke in the world',
-    url='https://github.com/storborg/python-packaging/tree/master/funniest',
+    description='My first package',
+    url='https://github.com/SenhorLucas/learning_python_packages',
     author='Lucas Viana',
-    author_email='flyingcircus@example.com',
-    license='VCC proprietary',
+    author_email='lucas.nviana@gmail.com',
+    license='none',
     packages=['awesome_package'],
     zip_safe=False
 )
